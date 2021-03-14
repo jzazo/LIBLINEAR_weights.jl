@@ -29,6 +29,9 @@ local.properties
 # External tool builders
 .externalToolBuilders/
 
+# Julia
+.Manifest.toml
+
 # Locally stored "Eclipse launch configurations"
 *.launch
 
